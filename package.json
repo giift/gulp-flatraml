@@ -23,7 +23,7 @@
     "url": "https://github.com/giift/gulp-flatraml/issues"
   },
   "homepage": "https://github.com/giift/gulp-flatraml#readme",
-  "devDependencies": {
+  "dependencies": {
     "flat-raml": "^1.2.3",
     "gulp-util": "^3.0.7",
     "through2": "^2.0.1"
