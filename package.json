@@ -1,0 +1,31 @@
+{
+  "name": "gulp-flatraml",
+  "version": "0.1.0",
+  "description": "Use flat-raml in a gulpy fashion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giift/gulp-flatraml.git"
+  },
+  "keywords": [
+    "gulp",
+    "flat-raml",
+    "raml"
+  ],
+  "authors": [
+    "Nicolas Lagier"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giift/gulp-flatraml/issues"
+  },
+  "homepage": "https://github.com/giift/gulp-flatraml#readme",
+  "devDependencies": {
+    "flat-raml": "^1.2.3",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
